@@ -1,4 +1,4 @@
-# Xihelv-Chinese-CVVC
+# Xihelv-Japanese-VCV
 [Github](https://github.com/oxygen-dioxide/Xihelv-Japanese-VCV) | 
 [Gitlab](https://gitlab.com/oxygen-dioxide/Xihelv-Japanese-VCV) | 
 [Bitbucket](https://bitbucket.org/oxygendioxide/xihelv-japanese-vcv) | 
